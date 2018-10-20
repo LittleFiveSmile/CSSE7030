@@ -1,0 +1,4 @@
+Extension Task Master Files
+One of the extension task options is to check names in the athlete_data.csv file against a master list, where the master list is guaranteed to be correct. You can extract the valid names from the original athlete_data.csv file. All validly formatted event names, except for the last row (athlete id 86), which is misspelled, make up the entries for the master list of event names. All validly formatted country codes make up the entries for the master list of country codes. All validly formatted athlete names make up the entries for the master list of athlete names.
+
+The event names, athlete names and country codes have been extracted to the attached files.
